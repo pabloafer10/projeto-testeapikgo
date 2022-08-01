@@ -1,0 +1,15 @@
+
+{
+  "name": "projeto-testeapikgoo",
+  "version": "1.0.0",
+  "description": "teste de api kgoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Pablo Fernandes",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
